@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="eShopCOE125MP.cart">
+    <Position X="0.5" Y="5.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAQCIAAAAAAAAAAiAAAQAAAhAAAAAIAAQA=</HashCode>
+      <FileName>cart.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eShopCOE125MP.categ">
+    <Position X="12.5" Y="2.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAASAAAAAAAAAAAAAAAAACAAQQAAgBAAAAAICAAI=</HashCode>
+      <FileName>categ.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eShopCOE125MP.checkout">
+    <Position X="8.75" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAQAACIAAAAIAEEAAiCCQQIIgBAQAAAIAAQQ=</HashCode>
+      <FileName>checkout.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eShopCOE125MP.compare">
+    <Position X="0.5" Y="9.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAASAAAAAAAAAAAAAAAAACAAQQAAABgAAAAIAAIA=</HashCode>
+      <FileName>compare.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eShopCOE125MP.index">
+    <Position X="12.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAQAAABAAAAAIAAAA=</HashCode>
+      <FileName>index.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eShopCOE125MP.login">
+    <Position X="0.5" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>CAgAAAAAAAAAAAAQAAAAAIAACACAyIAABAABAAJAAAQ=</HashCode>
+      <FileName>login.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eShopCOE125MP.orderstatus">
+    <Position X="8.75" Y="7" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAQQAAAhAAAAAIAAAA=</HashCode>
+      <FileName>orderstatus.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eShopCOE125MP.search">
+    <Position X="4.5" Y="8" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAASAAAAAAAAAAAAAAAAACAAQQAAgBAAAAAICAAI=</HashCode>
+      <FileName>search.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eShopCOE125MP.view">
+    <Position X="4.5" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AQCAAABAAAAFQAAAQIAAAAIACEAAQAAxBEAAAAIKQDI=</HashCode>
+      <FileName>view.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
